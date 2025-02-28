@@ -35,3 +35,13 @@ class Calculadora
 
 
 }
+namespace calculadora_divisao_multiplicacao
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
